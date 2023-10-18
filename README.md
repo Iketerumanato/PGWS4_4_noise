@@ -13,9 +13,11 @@ src フォルダをUnityで開きます。
 
 ![結果画像4](https://github.com/Iketerumanato/ComingHome/assets/74332407/d618f573-ef90-4b5d-a23f-07442da5aed1)
 
-![結果画像5](https://github.com/Iketerumanato/ComingHome/assets/74332407/8de62caf-50a9-47b6-994c-5af48c971a9b)
+![結果画像5](https://github.com/Iketerumanato/ComingHome/assets/74332407/7a42b149-fec0-456f-bb4b-1e9366888338)
 
-![結果画像6](https://github.com/Iketerumanato/ComingHome/assets/74332407/3761ac50-f9b2-4c03-b0f0-975b199b5a27)
+![結果画像6](https://github.com/Iketerumanato/ComingHome/assets/74332407/8de62caf-50a9-47b6-994c-5af48c971a9b)
+
+![結果画像7](https://github.com/Iketerumanato/ComingHome/assets/74332407/3761ac50-f9b2-4c03-b0f0-975b199b5a27)
 
 ![結果画像](https://github.com/Iketerumanato/ComingHome/assets/74332407/f97375f6-2472-43bf-9d4e-2cae400883b1)
 
